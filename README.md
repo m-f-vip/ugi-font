@@ -25,8 +25,10 @@ tasks:
 - 
 # 安装与下载
 - UGI-font技能，已经在workbuddy平台上架，搜索技能：ugi font，按平台说明安装
-- UGI-font技能免费版下载:https://www.modelscope.cn/models/bd25vip/ugi-font/
-- 文件名：ugi-free-v2.5.1-开放平台技能包.zip ， 版本号会随时更新
+- - UGI skill技能主站：
+- - 魔塔: https://www.modelscope.cn/models/bd25vip/ugi-font/
+- - github: https://github.com/m-f-vip/ugi-font
+- - 文件名：ugi-free-v2.5.1-开放平台技能包.zip ， 版本号会随时更新
 - 以下agent平台，均已经测试通过。
 - - workbuddy，豆包工作，百度搭子，千问工作，dsh，hermes，讯飞loomy
 - 
@@ -57,7 +59,11 @@ https://mp.weixin.qq.com/s/kPDMobxLDGe1ISFVm7OdEQ
 - •	情绪化字体矩阵：屌丝体、牛来体（zw 粘土体）等自带流量属性的引流字体。
 - •	小白友好：预制成熟工作流，拖拽即用，本地离线运行，无需调参。
 - •	免费预览付费商用：免费生成效果图，付费解锁完整字库与商用授权。
-
+# 教程
+- 《UGI入门教程_v1.0.mp4》视频教程1
+- 《UGI教程demo2.mp4》视频教程2
+- UGI入门教程_视频-提示词.txt
+- UGI新丑风小白入门保姆教程_v3.0.pdf
 ![](./rc/ugi26girl.png)
 # UGI-API 演示
 - UGI-API 在线演示（免费体验）：http://gradio.font.z-w.vip/
