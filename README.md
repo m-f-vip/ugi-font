@@ -83,6 +83,52 @@ https://mp.weixin.qq.com/s/kPDMobxLDGe1ISFVm7OdEQ
 ![](./rc/ugi_cmf010.png)
 
 
+# ugi-font系列免费skll
+- 参见skill目录下载，手动安装
+-
+- ugi-avatar-text | 头像昵称字（免费） 
+- ugi-brand-poster | 品牌海报 / 新品发布主视觉字 | 方案 Q.3「品牌海报·新品发布·小微品牌·可商用品牌字」
+- ugi-certificate | 荣誉证书 / 奖状主标题 | G8 品牌 B 端 |
+- ugi-chapter-title | PPT 章节过渡页标题 | G3 PPT 汇报 |
+- ugi-club-recruit | 游戏公会 / 战队招新标题 | G11 游戏二次元 |
+- ugi-coupon-word | 电商优惠券促销标题 | G4 电商促销 |
+- ugi-course-cover | 在线课程 / 专栏封面标题 | G9 教育知识 |
+- ugi-daily-quote | 日签 / 金句配图 / 心情卡字 | G5 社交日签高价值细分 |
+- ugi-detail-point | 商品详情页卖点标题 | G4 电商商品 |
+- ugi-drama-cover | 短剧封面字（免费） 
+- ugi-edu-card | 知识卡片 / 课件知识点标题字 | 方案场景组 G9 教育知识 |
+- ugi-festival-word | 节庆祝福大字（春节/中秋） | 附录 D 域 G7 节庆节点 |
+- ugi-game-title | 游戏二次元 / 电竞封面标题字 | 方案视觉方向「赛博霓虹·游戏/二次元/年轻」
+- ugi-gzh-cover | 公众号首图字（免费） | 公众号首图标题 
+- ugi-handbook-word | 手账标题 / 手写风贴纸字 | 方案 Q.3「手账·周边·手写风标题字」
+- ugi-jianying-cover | 剪映封面标题字 | 正文长尾「剪映封面标题字」 |
+- ugi-live-banner | 直播间横幅 / 进房欢迎字 | 正文「直播贴片」（与 price-tag 的价格牌区分） |
+- ugi-live-cover | 开播封面字（免费） 
+- ugi-meme-text | 梗图配字（免费） 
+- ugi-moments-word | 朋友圈配图文案字 | G5 社交日签 |
+- ugi-name-card | 名片 / 电子请柬 / 请帖主题字 | G8 品牌 B 端高价值细分（礼仪场景） |
+- ugi-plan-table | 手账计划表 / 打卡表标题 | G10 手账周边 |
+- ugi-podcast-cover | 播客 / 音频节目封面标题 | G1 内容封面 |
+- ugi-poster-title | 活动海报字（免费） | 活动主视觉大字 
+- ugi-ppt-cover | PPT封面字（免费） | PPT 封面主标题 
+- ugi-ppt-number | 数据大字（免费） 
+- ugi-price-tag | 直播价格牌 / 促销价签 | 正文长尾「直播价格牌」
+- ugi-product-title | 电商主图字（免费） | 电商主图标题 
+- ugi-redpacket-word | 微信红包封面祝福字 | G7 节庆节点 |
+- ugi-resume-title | 求职简历姓名与标题 | G8 个人职场 |
+- ugi-store-sign | 门店招牌 / 橱窗字 | 附录 D 域 G6 海报门店 |
+- ugi-travel-sign | 文旅打卡字（免费） 
+- ugi-video-cover | 短视频封面字（免费） | 短视频封面大字 
+- ugi-wall-poster | 企业文化墙标语大字 | G6 海报物料 |
+- ugi-xhs-cover | 小红书封面字（免费） | 小红书封面主标题 
+- ugi-xhs-title | 小红书笔记内文小标题 | 
+
+
+
+
+
+
+
 
 
 
