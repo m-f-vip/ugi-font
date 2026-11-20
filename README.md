@@ -19,7 +19,7 @@ tasks:
 - -  全球首个情绪化字库,引流神器，3s视觉锤：粘土（牛来）体，屌丝体，肥仔体，......
 - -  全球首个智能字库, 全球首创mtag智能标签。
 <video src="./UGI入门教程_v1.0.mp4" controls width="100%"></video>
-- UGI新丑风小白入门保姆教程_v3.0.pdf https://www.modelscope.cn/models/bd25vip/ugi-font/UGI新丑风小白入门保姆教程_v3.0.pdf
+- UGI新丑风小白入门保姆教程_v3.0.pdf https://www.modelscope.cn/models/bd25vip/ugi-font/UGI新丑风小白入门保姆教程_v3.2.pdf
 - 
 - UGI-ComfyUI 插件： https://www.modelscope.cn/models/bd25vip/ugi-comfy/
 - 
@@ -83,7 +83,7 @@ https://mp.weixin.qq.com/s/kPDMobxLDGe1ISFVm7OdEQ
 ![](./rc/ugi_cmf010.png)
 
 
-# ugi-font系列免费skll
+# ugi-font系列免费skll，行业细分版
 - 参见skill目录下载，手动安装
 -
 - ugi-avatar-text | 头像昵称字（免费） 
